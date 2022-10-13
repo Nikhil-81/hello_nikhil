@@ -1,0 +1,21 @@
+.cont{
+    background-color: rgb(255, 255, 255);
+}
+.head{
+    padding: 10px 10px ;
+    background-color: #c4b2ff;
+
+}
+.head>h2:first-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Name{
+    background-color: #c4b2ff;
+    padding: 2px 2px;
+    color: white;
+}
+.Hi_image{
+    width: 50px;
+}
